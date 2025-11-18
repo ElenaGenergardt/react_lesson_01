@@ -20,4 +20,8 @@ function Input({ id, name, type, placeholder, label }) {
   );
 }
 
+<<<<<<< HEAD
 export default Input;
+=======
+export default Input;
+>>>>>>> 9ed8af05a6c3066b920d91ed0dba2b9d6ba3c037
